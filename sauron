@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+    <meta charset="UTF-8">
+    <title>Bootstrap</title> 
+</head>
+  
+ <div id="container">
+  <div id="row1">
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+   </div>
+   
+   <div id="row2">
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+   <div id="row3">
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+   <div id="row4">
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+  
+   <div id="row5">
+     <div id="quadratob"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratog"></div>
+     <div id="quadratog"></div>
+     <div id="quadratog"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+  <div id="row6">
+     <div id="quadratob"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratog"></div>
+     <div id="quadratog"></div>
+     <div id="quadratog"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+   <div id="row7">
+     <div id="quadratob"></div>
+     <div id="quadratog"></div>
+     <div id="quadraton"></div>
+     <div id="quadraton"></div>
+     <div id="quadraton"></div>
+     <div id="quadratog"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+ <div id="row6">
+     <div id="quadratob"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratog"></div>
+     <div id="quadratog"></div>
+     <div id="quadratog"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+  <div id="row5">
+     <div id="quadratob"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratog"></div>
+     <div id="quadratog"></div>
+     <div id="quadratog"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+  <div id="row4">
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+  <div id="row3">
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadratoo"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+   <div id="row2">
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadratob"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+  </div>
+   
+   <div id="container-fluid">
+  <div id="row1">
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+     <div id="quadrato"></div>
+   </div>
+</div>
+</html>
