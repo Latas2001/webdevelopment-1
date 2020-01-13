@@ -1,0 +1,37 @@
+#container {
+  display: flex 
+}
+
+#col {
+  display: inline
+}
+  
+#quadrato {
+	width:50px;
+	height:50px;
+	background:#383838;
+}
+
+#quadratob {
+	width:50px;
+	height:50px;
+	background:white;
+}
+
+#quadratoo {
+	width:50px;
+	height:50px;
+	background:orange;
+}
+
+#quadratog {
+	width:50px;
+	height:50px;
+	background:#ECD230;
+}
+
+#quadraton {
+	width:50px;
+	height:50px;
+	background:#000;
+}
